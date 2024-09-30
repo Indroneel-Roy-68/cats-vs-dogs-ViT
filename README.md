@@ -1,2 +1,3 @@
-# cats-vs-dogs-ViT
-This is my first repository
+#Vision Transformer for Cats vs Dogs Classification
+
+##Project Overview
