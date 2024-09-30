@@ -1,3 +1,3 @@
-#Vision Transformer for Cats vs Dogs Classification
+# Vision Transformer for Cats vs Dogs Classification
 
-##Project Overview
+## Project Overview
