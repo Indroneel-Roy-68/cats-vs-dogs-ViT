@@ -12,6 +12,7 @@ The dataset used in this project is the **https://www.kaggle.com/competitions/do
 
 ## Project Structure
 
-vit-cats-vs-dogs-pytorch.ipynb: The Jupyter Notebook containing all the code for loading data, training, testing, and evaluating the model.
-README.md: This file, explaining the project and how to run it.
-.gitignore: A file specifying files and directories to be ignored by git.
+- `vit-cats-vs-dogs-pytorch.ipynb`: The Jupyter Notebook containing the code for training and testing the model.
+- `README.md`: This file, which provides an overview and instructions for the project.
+
+
