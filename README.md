@@ -19,6 +19,8 @@ The dataset used in this project is the **https://www.kaggle.com/competitions/do
 
 The model leverages a pretrained Vision Transformer (ViT), which breaks down images into patches and processes them similarly to how transformers process tokens in NLP. Key components include:
 
+![ViT](https://github.com/user-attachments/assets/b1034739-25fa-4b10-ac49-11b2667318e7)
+
 - Backbone: Pretrained ViT model from PyTorch's torchvision library.
 - Optimizer: Adam optimizer.
 - Loss Function: Cross-entropy loss.
