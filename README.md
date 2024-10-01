@@ -15,4 +15,13 @@ The dataset used in this project is the **https://www.kaggle.com/competitions/do
 - `vit-cats-vs-dogs-pytorch.ipynb`: The Jupyter Notebook containing the code for training and testing the model.
 - `README.md`: This file, which provides an overview and instructions for the project.
 
+## Model Architecture
+
+The model leverages a pretrained Vision Transformer (ViT), which breaks down images into patches and processes them similarly to how transformers process tokens in NLP. Key components include:
+
+- `Backbone: Pretrained ViT model from PyTorch's torchvision library.
+- `Optimizer: Adam optimizer.
+- `Loss Function: Cross-entropy loss.
+- `Training Epochs: 10.
+
 
