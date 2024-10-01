@@ -17,7 +17,7 @@ The dataset used in this project is the **https://www.kaggle.com/competitions/do
 
 ## Model Architecture
 
-First I write code of ViT transformer model from paper with 500 images for train and 50 images for test that give me very bad result less than 50% accuracy. Then I try pretrain vit model give me outstanding result. After that I increase the amount of train data I take 20% of main train data and train my model that give almost 100% accuracy.
+First I write code of ViT transformer model from paper with 500 images for training and 50 images for testing that give me very bad result less than 50% accuracy. Then I try pretrain vit model give me outstanding result. After that I increase the amount of train data I take 20% of main train data and train my model that give almost 100% accuracy.
 Here is the Vit transformer image and some parameter I choose.
 
 ![ViT](https://github.com/user-attachments/assets/b1034739-25fa-4b10-ac49-11b2667318e7)
