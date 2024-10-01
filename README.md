@@ -24,4 +24,12 @@ The model leverages a pretrained Vision Transformer (ViT), which breaks down ima
 - Loss Function: Cross-entropy loss.
 - Training Epochs: 10.
 
+## Why Vision Transformer?
+
+Vision Transformers have proven effective in image classification tasks as they:
+
+- Use self-attention mechanisms to capture global relationships across image patches.
+- Often outperform convolutional neural networks (CNNs) on large datasets.
+- Provide a flexible framework for fine-tuning on specific tasks.
+
 
